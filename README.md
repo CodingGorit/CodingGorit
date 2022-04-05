@@ -1,4 +1,5 @@
 ### Hi there 👋
+![info](https://github-readme-stats.vercel.app/api?username=CodingGorit&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 <!--
 **CodingGorit/CodingGorit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
