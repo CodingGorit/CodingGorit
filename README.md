@@ -1,6 +1,10 @@
 ### Hi there 👋
-![info](https://github-readme-stats.vercel.app/api?username=CodingGorit&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
+![info](https://github-readme-stats.vercel.app/api?username=CodingGorit&show_icons=true&count_private=true&hide=prs&theme=highcontrast)
+
+![Gorit's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=CodingGorit&show_icons=true&count_private=true&theme=gotham)
+
+[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://www.yuque.com/gorit/learnjava)
 <!--
 **CodingGorit/CodingGorit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
