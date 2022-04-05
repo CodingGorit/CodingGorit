@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome 👋
+
+**Blog**：[My Blog](https://www.gorit.cn)
+
+**Contact**：javafullstack2021@163.com
 
 ![info](https://github-readme-stats.vercel.app/api?username=CodingGorit&show_icons=true&count_private=true&hide=prs&theme=highcontrast)
 
