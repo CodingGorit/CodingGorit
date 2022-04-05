@@ -2,7 +2,7 @@
 
 ![info](https://github-readme-stats.vercel.app/api?username=CodingGorit&show_icons=true&count_private=true&hide=prs&theme=highcontrast)
 
-![Gorit's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=CodingGorit&show_icons=true&count_private=true&theme=gotham)
+![Gorit's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=CodingGorit&show_icons=true&count_private=true&theme=highcontrast)
 
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://www.yuque.com/gorit/learnjava)
 <!--
