@@ -1,6 +1,8 @@
 ### Welcome 👋
 
-**Blog**：[My Blog](https://www.gorit.cn)
+**Site**：[My Website](https://www.gorit.cn)
+
+**Blog** [My blog](https://codinggorit.blog.csdn.net/)
 
 **Contact**：javafullstack2021@163.com
 
@@ -25,3 +27,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on TypeScript
+- 🌱 I’m currently learning ES6
