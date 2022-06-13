@@ -4,6 +4,8 @@
 
 **Blog** [My blog](https://codinggorit.blog.csdn.net/)
 
+**gitee** [Gitee](https://gitee.com/CodingGorit)
+
 **Contact**：javafullstack2021@163.com
 
 ![info](https://github-readme-stats.vercel.app/api?username=CodingGorit&show_icons=true&count_private=true&hide=prs&theme=highcontrast)
@@ -28,3 +30,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on TypeScript
 - 🌱 I’m currently learning ES6
+- 💬 Ask me about to be a independent devloper
