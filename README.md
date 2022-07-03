@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on TypeScript
-- 🌱 I’m currently learning ES6
+- 🌱 I’m currently learning ES6 [finish]
 - 💬 Ask me about to be a independent devloper
