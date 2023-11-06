@@ -108,26 +108,17 @@
 
 ![info](https://github-readme-stats.vercel.app/api?username=CodingGorit&show_icons=true&count_private=true&hide=prs&theme=highcontrast)
 
-![Gorit's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=CodingGorit&show_icons=true&count_private=true&theme=highcontrast)
+<!-- ![Gorit's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=CodingGorit&show_icons=true&count_private=true&theme=highcontrast) -->
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingGorit&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
-
-<details><summary> Recent Blog Posts </summary>
-
-### https://www.yuque.com/gorit/fullstack-comprehensive/epe827oxs6qezgmn?singleDoc# 《记录使用 docker-compose 部署 redis 服务，配置文件不生效问题》  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END --></details>  
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingGorit&hide_border=true&layout=compact)
 
 <br/>  
 
-  
+## Recent Blog Posts
 
-<br/>  
+### 《记录使用 docker-compose 部署 redis 服务，配置文件不生效问题》  
 
-  
+[reach me](https://www.yuque.com/gorit/fullstack-comprehensive/epe827oxs6qezgmn?singleDoc#)
 
 <br/>  
 
