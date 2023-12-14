@@ -93,7 +93,9 @@
 
 
 ## Connect with me  
+
 <a href="https://github.com/CodingGorit" target="_blank">
+
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://stackoverflow.com/users/CodingGorit" target="_blank">
@@ -116,9 +118,13 @@
 
 ## Recent Blog Posts
 
+### 手把手教你写用 ArkTS 完成 HarmonOS 实战项目编写 —— 支付宝页面仿写 - 2023年12月15日
+
+[README](https://www.yuque.com/gorit/dmbtdd/folq1wud64afrez2)
+
 ### 《记录使用 docker-compose 部署 redis 服务，配置文件不生效问题》  
 
-[reach me](https://www.yuque.com/gorit/fullstack-comprehensive/epe827oxs6qezgmn?singleDoc#)
+[README](https://www.yuque.com/gorit/fullstack-comprehensive/epe827oxs6qezgmn?singleDoc#)
 
 <br/>  
 
