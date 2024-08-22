@@ -10,15 +10,11 @@
 
 
 ### coding  
-- 🔭 I’m currently working on leetcode with TypeScript  
-  
-
+- 🔭 I’m currently working on ohos with ArkTS.  
 
 
 ### Ask me  
 - 💬 Ask me about to be a independent devloper  
-  
-
 
 
 ### Contact  
