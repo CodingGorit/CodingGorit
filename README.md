@@ -1,13 +1,12 @@
 # Welcome to my home page
 
-### <div align="center">I'm Gorit, a full-time full-stack freelance developer 👨‍💻 working remotely since 2023.9🚀</div>  
+### <div align="center">I'm Gorit, a full-time full-stack freelance developer 👨‍💻 working remotely since 2021.7🚀</div>  
   
 
-- 🌱 I’m currently learning React.  
-- 🔭 I’m currently working on leetcode with TypeScript  
+- 🌱 I’m currently learning ohos.  
+- 🔭 I’m currently working on leetcode with ArkTS  
 - 💬 Ask me about to be a independent devloper  
   
-
 ### Contact  
 
 - 📫 How to reach me: contact me @ <codinggorit@gamil.com>  
@@ -77,18 +76,6 @@
 
 <br/>  
 
-
-## Connect with me  
-
-<a href="https://github.com/CodingGorit" target="_blank">
-
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/CodingGorit" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
-  
-
 <br/>  
 
 
@@ -106,10 +93,11 @@
 
 ## Recent Blog Posts
 
-### 手把手教你写用 ArkTS 完成 HarmonOS 实战项目编写 —— 支付宝页面仿写 - 2023年12月15日
+### Hello 仓颉 - 2024年7月24日
 
-[README](https://www.yuque.com/gorit/dmbtdd/folq1wud64afrez2)
+[README](https://www.yuque.com/gorit/dmbtdd/ywk11g25ahn8elum)
 
-### 《记录使用 docker-compose 部署 redis 服务，配置文件不生效问题》  
+### 仓颉快速入门
 
 [README](https://www.yuque.com/gorit/fullstack-comprehensive/epe827oxs6qezgmn?singleDoc#)
+
