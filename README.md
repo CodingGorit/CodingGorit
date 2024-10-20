@@ -3,32 +3,18 @@
 ### <div align="center">I'm Gorit, a full-time full-stack freelance developer 👨‍💻 working remotely since 2023.9🚀</div>  
   
 
-
-
-### Focus  
 - 🌱 I’m currently learning React.  
-  
-
-
-
-### coding  
 - 🔭 I’m currently working on leetcode with TypeScript  
-  
-
-
-
-### Ask me  
 - 💬 Ask me about to be a independent devloper  
   
 
-
-
 ### Contact  
+
 - 📫 How to reach me: contact me @ <codinggorit@gamil.com>  
   
 ### others
 
-- **Site**：[My Website](https://www.gorit.cn)
+- **Site** [My Website](https://www.gorit.cn)
 
 - **Blog** [My blog](https://codinggorit.blog.csdn.net/)
 
@@ -106,15 +92,17 @@
 <br/>  
 
 
-## Github Stats  
+## Github Status
 
 ![info](https://github-readme-stats.vercel.app/api?username=CodingGorit&show_icons=true&count_private=true&hide=prs&theme=highcontrast)
-
-<!-- ![Gorit's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=CodingGorit&show_icons=true&count_private=true&theme=highcontrast) -->
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingGorit&hide_border=true&layout=compact)
 
 <br/>  
+
+## visitors
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=CodingGoritd&left_color=green&right_color=red)
 
 ## Recent Blog Posts
 
@@ -125,8 +113,3 @@
 ### 《记录使用 docker-compose 部署 redis 服务，配置文件不生效问题》  
 
 [README](https://www.yuque.com/gorit/fullstack-comprehensive/epe827oxs6qezgmn?singleDoc#)
-
-<br/>  
-
-<div align="center"></div>
-<br />
