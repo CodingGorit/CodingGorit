@@ -87,11 +87,11 @@
 
 <br/>  
 
-## visitors
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=CodingGoritd&left_color=green&right_color=red)
 
 ## Recent Blog Posts
+
+### 《手把手教你用 DeepSeek + AI 编程工具开发 chrome 游览器插件》- 2025年3月2日
+[《手把手教你用 DeepSeek + AI 编程工具开发 chrome 游览器插件》](https://www.yuque.com/gorit/ai/isleho7a9m2l4dr4?singleDoc#) 
 
 ### Hello 仓颉 - 2024年7月24日
 
