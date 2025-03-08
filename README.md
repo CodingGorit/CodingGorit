@@ -4,7 +4,7 @@
   
 
 - 🌱 I’m currently learning ohos.  
-- 🔭 I’m currently working on leetcode with ArkTS  
+- 🔭 I’m currently working on OpenHarmony with arkTS 
 - 💬 Ask me about to be a independent devloper  
   
 ### Contact  
