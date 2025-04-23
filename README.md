@@ -90,6 +90,9 @@
 
 ## Recent Blog Posts
 
+### 手把手教你使用 mcp-server —— vscode + 多款 MCP Server 实现豆瓣图书 TOP250 读取并保存至 Excel - 2025年4月18日
+[手把手教你使用 mcp-server —— vscode + 多款 MCP Server 实现豆瓣图书 TOP250 读取并保存至 Excel](https://juejin.cn/post/7494412556946260018)
+
 ### 《手把手教你用 DeepSeek + AI 编程工具开发 chrome 游览器插件》- 2025年3月2日
 [《手把手教你用 DeepSeek + AI 编程工具开发 chrome 游览器插件》](https://www.yuque.com/gorit/ai/isleho7a9m2l4dr4?singleDoc#) 
 
