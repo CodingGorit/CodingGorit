@@ -90,6 +90,12 @@
 
 ## Recent Blog Posts
 
+### 使用 AI + Flutter-OH 开发 HarmonyOS 应用 - 2026年4月7日
+[使用 AI + Flutter-OH 开发 HarmonyOS 应用](https://codinggorit.blog.csdn.net/article/details/159650609)
+
+### 如何使用 Flutter 开发 HarmonyOS 应用 - 2026年3月25日
+[如何使用 Flutter 开发 HarmonyOS 应用](https://codinggorit.blog.csdn.net/article/details/159437551)
+
 ### 手把手教你使用 mcp-server —— vscode + 多款 MCP Server 实现豆瓣图书 TOP250 读取并保存至 Excel - 2025年4月18日
 [手把手教你使用 mcp-server —— vscode + 多款 MCP Server 实现豆瓣图书 TOP250 读取并保存至 Excel](https://juejin.cn/post/7494412556946260018)
 
