@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning ohos.  
 - 🔭 I’m currently working on OpenHarmony with arkTS 
-- 💬 Ask me about to be a independent devloper  
+- 💬 Ask me about to be a independent developer  
   
 ### Contact  
 
@@ -18,6 +18,10 @@
 - **Blog** [My blog](https://codinggorit.blog.csdn.net/)
 
 - **gitee** [Gitee](https://gitee.com/CodingGorit)
+
+- **ohos** [Gitee-ohos](https://gitee.com/gorit)
+
+- **cross-platform-ohos-library** [Gitcide](https://gitcode.com/Coding_Gorit)
 
 <br/>  
 
